@@ -1,2 +1,0 @@
-# spotif
-responsive clone
